@@ -21,3 +21,19 @@
 <img alt="Palantir" src="https://img.shields.io/badge/palantir-%23000000?style=for-the-badge&logo=palantir&logoColor=white">
 <img alt="Amazon"   src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white">
 </div>
+
+---
+
+<div align="center">
+
+<img width="640" height="360" alt="Solas Learning Project-3" src="https://github.com/user-attachments/assets/68427adc-e501-4e0a-9ab7-330825d9aad8" />
+<h3>Opensource Learning Resources</h3>
+<p>As part of our own open learning project for the Notre Dame community</p>
+<a href="https://www.kaggle.com/datasets/gasparlarrainvaras/notre-dame-data-club-2026-historical-data/data">
+<img src="https://kaggle.shoore.dev/api/badge/datasets/gasparlarrainvaras/notre-dame-data-club-2026-historical-data" alt="Notre Dame Data Club 2026 -  Historical Data" />
+</a>
+
+<a href="https://www.kaggle.com/code/gasparlarrainvaras/advanced-ml-and-visualizations">
+<img src="https://kaggle.shoore.dev/api/badge/kernels/gasparlarrainvaras/advanced-ml-and-visualizations" alt="[Advanced] ML and Visualizations" />
+</a>
+</div>
